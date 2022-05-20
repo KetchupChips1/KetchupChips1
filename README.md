@@ -1,8 +1,4 @@
-Hello!
-
-My main language is Python, but I am currently learning JavaScript and HTML and all that stuff. 
-
-I focus mostly on [YeeBot](https://github.com/KetchupChips1/YeeBot), but every once in a while I start a new project that I never revisit ever again.
+If I never had a cent 
 
 
 <!---
