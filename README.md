@@ -1,4 +1,3 @@
-If I never had a cent 
 
 
 <!---
